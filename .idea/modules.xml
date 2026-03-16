@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/App/App.iml" filepath="$PROJECT_DIR$/App/App.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PalindroneCheckerApp.iml" filepath="$PROJECT_DIR$/.idea/PalindroneCheckerApp.iml" />
-      <module fileurl="file://$PROJECT_DIR$/App/UseCase3PalindromeCheckerApp/UseCase3PalindromeCheckerApp.iml" filepath="$PROJECT_DIR$/App/UseCase3PalindromeCheckerApp/UseCase3PalindromeCheckerApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/App/src/UseCase3PalindromeCheckerApp/UseCase3PalindromeCheckerApp.iml" filepath="$PROJECT_DIR$/App/src/UseCase3PalindromeCheckerApp/UseCase3PalindromeCheckerApp.iml" />
     </modules>
   </component>
 </project>
