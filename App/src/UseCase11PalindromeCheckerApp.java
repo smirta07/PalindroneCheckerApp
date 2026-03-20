@@ -47,9 +47,9 @@ public class UseCase11PalindromeCheckerApp {
 
         // Display result
         if (result) {
-            System.out.println("Result: The string IS a palindrome ");
+            System.out.println("Result: The string IS a palindrome ✅");
         } else {
-            System.out.println("Result: The string is NOT a palindrome ");
+            System.out.println("Result: The string is NOT a palindrome ❌");
         }
 
         scanner.close();
